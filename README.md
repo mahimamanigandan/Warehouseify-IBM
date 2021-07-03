@@ -1,3 +1,3 @@
-Warehouseify
-Video : https://drive.google.com/file/d/19XBcPoJ1GFYDLnvHal9l2p8oXWtTJwlU/view?usp=sharing
-Presentation : https://drive.google.com/file/d/1ly3QmhERjgty1STSTggA4WAa2fkYj6g3/view?usp=sharing
+Warehouseify:
+
+Sustentation..?? Warehouseify..!! A food delivery company has to deal with a lot of perishable goods, which indicates that predicting the daily and weekly demand  plays a important role in its sales.Too much of goods can lead to wastage whereas not enough can lead a loss of the company.Since the raw materials are perishable, planning on their demand for weekly basis is of utmost importance.Overloaded inventory and a customer leaving the store disappointed due to no stock of goods are some of the major problems in warehouse management.The inventory capacity must be aligned with the demand of customers in a given time frame.Hence, we propose the solution of developing a web application to interact with the machine learning model to predict the demand for goods based on the fluctuating customer needs and supply situations. Check out the working in the below link... Video : https://drive.google.com/file/d/19XBcPoJ1GFYDLnvHal9l2p8oXWtTJwlU/view?usp=sharing Presentation : https://drive.google.com/file/d/1ly3QmhERjgty1STSTggA4WAa2fkYj6g3/view?usp=sharing
